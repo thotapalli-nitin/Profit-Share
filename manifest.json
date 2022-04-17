@@ -1,0 +1,35 @@
+{
+  "name": "Profit Share %",
+  "description": "This Code Calculates the Profit Share % ",
+  "author": "Thotapalli Nitin",
+  "params": [
+    {
+      "name": "num1",
+      "displayName": "Company Profit in 33 Months",
+      "type": "number"
+    },
+    {
+      "name": "num2",
+      "displayName": "Total Aggregated WPs",
+      "type":"number"
+    },
+    {
+      "name": "num3",
+      "displayName": "Total Profit Share",
+      "type":"number"
+    },
+    {
+      "name": "num4",
+      "displayName": "Total Units in Lakhs",
+      "type":"number"
+    },
+    {
+      "name": "num5",
+      "displayName": "Total Units in Comp. Finantials",
+      "type":"number"
+    }
+  ],
+  "result": {
+    "type": "number"
+  }
+}
